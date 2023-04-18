@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9a1b1a08-a575-402f-b25e-841679701b85}">
+		<property name="assetPath">
+			<value>Soundtrack/Mechanical Drifting Obelisk/b_Insert 3.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>27.630385487528343</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0ac5fdb2-6974-49e2-94e5-0ae39a06ade0}</destination>
+		</relationship>
+	</object>
+</objects>

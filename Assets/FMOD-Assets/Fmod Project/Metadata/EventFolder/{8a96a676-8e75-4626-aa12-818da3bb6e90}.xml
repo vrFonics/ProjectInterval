@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{8a96a676-8e75-4626-aa12-818da3bb6e90}">
+		<property name="name">
+			<value>ANDGate</value>
+		</property>
+		<relationship name="folder">
+			<destination>{23676d01-2018-4efe-ac8f-209266fcd331}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8b369437-f349-41a6-bca8-481ab5e68713}">
+		<property name="assetPath">
+			<value>Weapons/StarterRifle/Reload/insert_mag.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.39208616780045352</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0ac5fdb2-6974-49e2-94e5-0ae39a06ade0}</destination>
+		</relationship>
+	</object>
+</objects>

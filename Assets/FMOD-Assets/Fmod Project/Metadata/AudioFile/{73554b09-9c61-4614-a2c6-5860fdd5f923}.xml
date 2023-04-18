@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{73554b09-9c61-4614-a2c6-5860fdd5f923}">
+		<property name="assetPath">
+			<value>loop1_Jazz Drums-2.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.854331065759637</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0ac5fdb2-6974-49e2-94e5-0ae39a06ade0}</destination>
+		</relationship>
+	</object>
+</objects>

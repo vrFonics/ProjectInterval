@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{d44bc6b4-665a-4b53-b3cf-649810246821}">
+		<property name="name">
+			<value>WholeTungMa</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a25ad9e6-b085-4d48-8ab1-26fa8091dccb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{bdf46d13-931e-4235-9a64-1a3017094991}">
+		<property name="name">
+			<value>Mechanical Drifting Obelisk</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a25ad9e6-b085-4d48-8ab1-26fa8091dccb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,261 @@
+{ "frames": {
+   "rifle_wip 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 1.aseprite": {
+    "frame": { "x": 96, "y": 0, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 2.aseprite": {
+    "frame": { "x": 192, "y": 0, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 3.aseprite": {
+    "frame": { "x": 288, "y": 0, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 4.aseprite": {
+    "frame": { "x": 384, "y": 0, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 5.aseprite": {
+    "frame": { "x": 0, "y": 32, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 6.aseprite": {
+    "frame": { "x": 96, "y": 32, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 7.aseprite": {
+    "frame": { "x": 192, "y": 32, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 8.aseprite": {
+    "frame": { "x": 288, "y": 32, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 9.aseprite": {
+    "frame": { "x": 384, "y": 32, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 10.aseprite": {
+    "frame": { "x": 0, "y": 64, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 11.aseprite": {
+    "frame": { "x": 96, "y": 64, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 12.aseprite": {
+    "frame": { "x": 192, "y": 64, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 13.aseprite": {
+    "frame": { "x": 288, "y": 64, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 14.aseprite": {
+    "frame": { "x": 384, "y": 64, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 15.aseprite": {
+    "frame": { "x": 0, "y": 96, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 16.aseprite": {
+    "frame": { "x": 96, "y": 96, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 17.aseprite": {
+    "frame": { "x": 192, "y": 96, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 18.aseprite": {
+    "frame": { "x": 288, "y": 96, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 19.aseprite": {
+    "frame": { "x": 384, "y": 96, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 20.aseprite": {
+    "frame": { "x": 0, "y": 128, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 21.aseprite": {
+    "frame": { "x": 96, "y": 128, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 22.aseprite": {
+    "frame": { "x": 192, "y": 128, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 23.aseprite": {
+    "frame": { "x": 288, "y": 128, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 24.aseprite": {
+    "frame": { "x": 384, "y": 128, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 25.aseprite": {
+    "frame": { "x": 0, "y": 160, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 26.aseprite": {
+    "frame": { "x": 96, "y": 160, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 27.aseprite": {
+    "frame": { "x": 192, "y": 160, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 28.aseprite": {
+    "frame": { "x": 288, "y": 160, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   },
+   "rifle_wip 29.aseprite": {
+    "frame": { "x": 384, "y": 160, "w": 96, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 32 },
+    "sourceSize": { "w": 96, "h": 32 },
+    "duration": 83
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-dev",
+  "format": "RGBA8888",
+  "size": { "w": 480, "h": 192 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Fire", "from": 1, "to": 5, "direction": "forward" },
+   { "name": "Reload", "from": 6, "to": 29, "direction": "forward" },
+   { "name": "Bolt_Release", "from": 20, "to": 26, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

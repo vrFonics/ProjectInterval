@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{41e4192d-72b6-40f0-8d94-55a0d7985c1c}">
+		<property name="name">
+			<value>StopLoop</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8dae0855-3aee-4665-a66c-67a464b48c14}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5c05e144-fef9-4a85-a55d-e7a150b1f10f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5c05e144-fef9-4a85-a55d-e7a150b1f10f}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
